@@ -1,5 +1,5 @@
-Apache Npp Distro
------------------
+Notepad Plus Plus Distro
+------------------------
 
 This project takes notepad plus plus distribution from github and makes it available using maven central.
 
