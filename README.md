@@ -3,7 +3,7 @@ Notepad Plus Plus Distro
 
 This project takes notepad plus plus distribution from github and makes it available using maven central.
 
-For more information on ant, please see [npp](https://github.com/notepad-plus-plus/notepad-plus-plus)
+For more information on notepad plus plus, please see [npp](https://github.com/notepad-plus-plus/notepad-plus-plus)
 
 # Motivation #
 
