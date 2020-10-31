@@ -11,7 +11,7 @@
 
     <groupId>com.github.hazendaz.npp</groupId>
     <artifactId>npp</artifactId>
-    <version>7.8.10-SNAPSHOT</version>
+    <version>7.9-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>npp</name>
@@ -39,7 +39,7 @@
     </distributionManagement>
 
     <properties>
-        <npp.version>7.8.9</npp.version>
+        <npp.version>7.9</npp.version>
         <download-plugin.version>1.6.0</download-plugin.version>
     </properties>
 
@@ -56,7 +56,7 @@
                             <goal>wget</goal>
                         </goals>
                         <configuration>
-                            <url>https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v${npp.version}/npp.${npp.version}.bin.x64.zip</url>
+                            <url>https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v${npp.version}/npp.${npp.version}.portable.x64.zip</url>
                         </configuration>
                     </execution>
                 </executions>
@@ -76,9 +76,9 @@
                         <configuration>
                             <artifacts>
                                 <artifact>
-                                    <file>${project.build.directory}/npp.${npp.version}.bin.x64.zip</file>
+                                    <file>${project.build.directory}/npp.${npp.version}.portable.x64.zip</file>
                                     <type>zip</type>
-                                    <classifier>bin.x64</classifier>
+                                    <classifier>portable.x64</classifier>
                                 </artifact>
                             </artifacts>
                         </configuration>
