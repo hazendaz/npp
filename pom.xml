@@ -32,9 +32,9 @@
     </scm>
     <distributionManagement>
         <site>
-            <id>gh-pages</id>
+            <id>gh-pages-scm</id>
             <name>Notepad Plus Plus Distribution Wrapper GitHub Pages</name>
-            <url>github:https://hazendaz.github.io/npp/</url>
+            <url>scm:git:ssh://git@github.com/hazendaz/npp.git</url>
         </site>
     </distributionManagement>
 
