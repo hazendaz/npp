@@ -40,7 +40,7 @@
 
     <properties>
         <npp.version>7.9.2</npp.version>
-        <download-plugin.version>1.6.0</download-plugin.version>
+        <download-plugin.version>1.6.1</download-plugin.version>
     </properties>
 
     <build>
