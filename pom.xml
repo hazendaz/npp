@@ -11,7 +11,7 @@
 
     <groupId>com.github.hazendaz.npp</groupId>
     <artifactId>npp</artifactId>
-    <version>7.9.3-SNAPSHOT</version>
+    <version>8.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>npp</name>
@@ -39,7 +39,7 @@
     </distributionManagement>
 
     <properties>
-        <npp.version>7.9.2</npp.version>
+        <npp.version>8.1</npp.version>
         <download-plugin.version>1.6.6</download-plugin.version>
     </properties>
 
