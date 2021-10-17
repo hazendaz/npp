@@ -39,7 +39,7 @@
     </distributionManagement>
 
     <properties>
-        <npp.version>8.1</npp.version>
+        <npp.version>8.1.7</npp.version>
         <download-plugin.version>1.6.7</download-plugin.version>
     </properties>
 
