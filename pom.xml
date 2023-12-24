@@ -59,7 +59,7 @@
 
     <properties>
         <npp.version>8.6</npp.version>
-        <download-plugin.version>1.7.1</download-plugin.version>
+        <download-plugin.version>1.8.0</download-plugin.version>
     </properties>
 
     <build>
