@@ -47,8 +47,8 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/hazendaz/npp.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/npp.git</developerConnection>
-        <url>https://github.com/hazendaz/npp</url>
         <tag>HEAD</tag>
+        <url>https://github.com/hazendaz/npp</url>
     </scm>
     <distributionManagement>
         <site>
@@ -89,10 +89,10 @@
                 <executions>
                     <execution>
                         <id>attach-artifacts</id>
-                        <phase>package</phase>
                         <goals>
                             <goal>attach-artifact</goal>
                         </goals>
+                        <phase>package</phase>
                         <configuration>
                             <artifacts>
                                 <artifact>
