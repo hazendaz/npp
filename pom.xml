@@ -60,7 +60,7 @@
 
     <properties>
         <npp.version>8.6.9</npp.version>
-        <download-plugin.version>1.11.5</download-plugin.version>
+        <download-plugin.version>1.12.0</download-plugin.version>
     </properties>
 
     <build>
