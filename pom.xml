@@ -31,7 +31,7 @@
 
     <groupId>com.github.hazendaz.npp</groupId>
     <artifactId>npp</artifactId>
-    <version>8.8.5-SNAPSHOT</version>
+    <version>8.8.5</version>
     <packaging>pom</packaging>
 
     <name>npp</name>
@@ -47,7 +47,7 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/hazendaz/npp.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/npp.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>npp-8.8.5</tag>
         <url>https://github.com/hazendaz/npp</url>
     </scm>
     <distributionManagement>
