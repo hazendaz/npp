@@ -2,7 +2,7 @@ Notepad++ Maven Distribution
 ----------------------------
 
 [![Java CI](https://github.com/hazendaz/npp/actions/workflows/ci.yaml/badge.svg)](https://github.com/hazendaz/npp/actions/workflows/ci.yaml)
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.hazendaz.npp/npp.svg?label=Maven%20Central)](https://search.maven.org/artifact/com.github.hazendaz.npp/npp)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.hazendaz.npp/npp?label=Maven%20Central)](https://central.sonatype.com/artifact/com.github.hazendaz.npp/npp)
 [![GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ![hazendaz](src/site/resources/images/hazendaz-banner.jpg)
