@@ -1,10 +1,18 @@
-Notepad Plus Plus Distro
-------------------------
+Notepad++ Maven Distribution
+----------------------------
 
-This project takes notepad plus plus distribution from github and makes it available using maven central.
+This project republishes official Notepad++ distributions in a form consumable from Maven Central.
 
-For more information on notepad plus plus, please see [npp](https://github.com/notepad-plus-plus/notepad-plus-plus)
+For information about Notepad++ itself, please see the upstream project [npp](https://github.com/notepad-plus-plus/notepad-plus-plus)
 
-# Motivation #
+## Motivation
 
-Notepad plus plus does not currently provide a maven central distribution. This project aims to solve that by providing users an alternative location to pull rather than github.
+Notepad++ does not currently publish artifacts to Maven Central.  
+This project exists to provide a Maven-friendly distribution for build systems and environments that rely on Maven repositories, without altering the upstream software.
+
+This project is not affiliated with or endorsed by the Notepad++ project.
+
+## License
+
+This artifact redistributes Notepad++ under the GNU General Public License v3, without modification.  
+The full license text is included in the `LICENSE` file.
