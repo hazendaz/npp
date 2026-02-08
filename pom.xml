@@ -55,7 +55,7 @@
 
     <properties>
         <npp.version>8.9.1</npp.version>
-        <download-plugin.version>2.0.0</download-plugin.version>
+        <download-plugin.version>2.1.0</download-plugin.version>
     </properties>
 
     <build>
