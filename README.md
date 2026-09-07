@@ -22,3 +22,7 @@ This project is not affiliated with or endorsed by the Notepad++ project.
 
 This artifact redistributes Notepad++ under the GNU General Public License v3, without modification.  
 The full license text is included in the `LICENSE` file.
+
+## Deprecation
+
+Due to sonatype cap limits, this is being deprecated.  These are availble in github releases now and I do need to ask team to turn on immutibility.
